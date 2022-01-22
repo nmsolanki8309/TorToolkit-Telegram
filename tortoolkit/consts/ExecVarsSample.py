@@ -5,10 +5,10 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "b76b8373af71e265f7c93a4db137b532"
+        API_ID = 8754777
+        BOT_TOKEN = "5234919906:AAGMgdJAfVoapOBSuCn3vwp7pBq7onz3Ogc"
+        BASE_URL_OF_BOT = "postgres://lrlhpsbhjbqsoo:74619023b315d83deac2f4e59cd2c70aa8fc36686947aed61960ecfb8c61359a@ec2-3-222-49-168.compute-1.amazonaws.com:5432/d2ihs17rp1kos5"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
